@@ -3,6 +3,8 @@ import nltk
 from textblob import TextBlob
 from newspaper import Article
 
+nltk.download('punkt_tab')
+
 def summarize():
     
     url = utext.get('1.0',"end").strip()
