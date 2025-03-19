@@ -16,7 +16,7 @@ f.) Polarity of the news (Positive or Negative) <br/>
 ![3](https://github.com/Rishu1204/Smart-Blog-Post-summarizer/assets/104202825/4836a54e-3b73-488a-8614-58e2f30037c1)
 <br/>
 
-## It contains different packages of Pyhton such as: <br/>
+## It contains different packages of Python such as: <br/>
 a.) tkinter (used to construct basic graphical user interface (GUI) applications) <br/>
 b.) nltk (a toolkit build for working with NLP in Python) <br/>
 c.) textblob ( used to create a textbox) <br/>
